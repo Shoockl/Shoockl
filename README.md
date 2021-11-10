@@ -1,7 +1,7 @@
  ##          Salve
  
 - 📖 Aprendendo Javascript
-<img align="center" alt="pato" height="150" style="border-radius:50px;" src="https://c.tenor.com/ly-sK0cGJ90AAAAC/daffy-duck-gun.gif">
+<img clean= both align="center" alt="pato" height="150" style="border-radius:50px;" src="https://c.tenor.com/ly-sK0cGJ90AAAAC/daffy-duck-gun.gif">
 <div align="center">
   <a href="https://github.com/Shoockl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shoockl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
